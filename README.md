@@ -3,9 +3,9 @@
 > **Complete 24-month roadmap to become a senior .NET Stack Developer**  
 > From C# basics to production-ready microservices with Azure
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Progress](https://img.shields.io/badge/Weeks-96-success.svg)](dotnet-roadmap-tracker.csv)
 [![Duration](https://img.shields.io/badge/Duration-24%20Months-orange.svg)](README.md)
+[![Start Date](https://img.shields.io/badge/Start%20Date-2024--11--02-blue.svg)](dotnet-roadmap-tracker.csv)
 
 ---
 
@@ -261,6 +261,24 @@
 3. 💪 ابدأ الأسبوع الأول
 4. 🔥 التزم بالخطة
 5. 🚀 حقق هدفك في أن تصبح .NET Developer محترف!
+
+---
+
+## 🔧 **ملاحظة للمطورين**
+
+### تحديث ملف Excel:
+
+إذا قمت بتعديل ملف CSV وأردت إعادة إنشاء ملف Excel:
+
+```bash
+# تثبيت المتطلبات
+pip install openpyxl pandas
+
+# تشغيل السكريبت (موجود في المستودع)
+python3 generate_excel.py
+```
+
+**ملاحظة:** تاريخ البداية (2024-11-02) قابل للتخصيص. يمكنك تعديل التواريخ في ملف CSV حسب احتياجاتك.
 
 ---
 
