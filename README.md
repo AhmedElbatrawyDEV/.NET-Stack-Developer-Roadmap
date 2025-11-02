@@ -3,6 +3,20 @@
 [![Progress](https://img.shields.io/badge/Weeks-96-success.svg)](dotnet-roadmap-tracker.csv)
 [![Duration](https://img.shields.io/badge/Duration-24%20Months-orange.svg)](README.md)
 [![Start Date](https://img.shields.io/badge/Start%20Date-2024--11--02-blue.svg)](dotnet-roadmap-tracker.csv)
+[![Certifications](https://img.shields.io/badge/Certifications-Guide-brightgreen.svg)](CERTIFICATIONS.md)
+
+---
+
+## 👨‍💼 **For Senior Developers (7+ Years Experience)**
+
+**If you're an experienced developer looking to review, improve, and get certified:**
+
+📘 **[Complete Certification Guide →](CERTIFICATIONS.md)** - Microsoft Azure, TOGAF, and career roadmap
+
+**Quick Links for Experienced Developers:**
+- 🎓 [Certification Roadmap](CERTIFICATIONS.md) - AZ-900, AZ-204, AZ-305, TOGAF
+- ⚡ [Accelerated Study Plan](#study-plan-for-experienced-developers) - Skip basics, focus on gaps
+- 📊 [Career Progression Guide](CERTIFICATIONS.md#-certification-priority-by-career-goal) - Choose your path
 
 ---
 
@@ -35,6 +49,13 @@
 ## 🎯 **نظرة عامة على الخطة**
 
 تقدم هذه الخطة مساراً كاملاً لمدة **24 شهراً (96 أسبوع)** لتصبح مطور .NET Stack محترف:
+
+### **📌 ملاحظة للمطورين ذوي الخبرة:**
+إذا كان لديك **7+ سنوات خبرة**، يمكنك:
+- ⚡ **تسريع المراحل 1-3** (الأساسيات والـ ASP.NET Core) - مراجعة سريعة فقط (2-4 أسابيع)
+- 🎯 **التركيز على المراحل 4-6** (Architecture, Microservices, Advanced) - (4-6 أشهر)
+- 🎓 **إضافة الشهادات** - اتبع [دليل الشهادات](CERTIFICATIONS.md) (6-12 شهر)
+- 📊 **خطة مخصصة** - راجع القسم أدناه
 
 ### **المرحلة 1: الأساسيات (الأشهر 1-4)**
 - ✅ C# Fundamentals
@@ -72,6 +93,59 @@
 - ✅ Real-time (SignalR)
 - ✅ GraphQL
 - ✅ Capstone Project
+
+---
+
+## 🎓 **Study Plan for Experienced Developers**
+
+### **Accelerated Timeline (12 months with Certifications)**
+
+**For senior developers with 7+ years experience:**
+
+| Phase | Duration | Focus | Certifications |
+|-------|----------|-------|----------------|
+| **Months 1-2** | 8 weeks | Quick review of fundamentals + Modern C# features | AZ-900 (Week 2) |
+| **Months 3-4** | 8 weeks | Architecture & Design Patterns review, CQRS, Event Sourcing | AZ-204 (Month 4) |
+| **Months 5-6** | 8 weeks | Microservices, Docker, Kubernetes hands-on | AZ-400 (Month 6) |
+| **Months 7-9** | 12 weeks | Cloud Architecture, Azure deep dive | AZ-305 (Month 9) |
+| **Months 10-12** | 12 weeks | Enterprise Architecture & TOGAF | TOGAF Foundation + Certified |
+
+**Total Investment:**
+- ⏱️ **Study Time:** 10-15 hours/week
+- 💰 **Certification Costs:** $1,200-1,700
+- 🎯 **Outcome:** 5 industry certifications + refreshed skills
+
+### **What to Focus On:**
+
+**Skip or Quick Review (1-2 weeks each):**
+- ✅ C# Basics (you know this)
+- ✅ OOP Fundamentals (you know this)
+- ✅ Basic LINQ (you know this)
+- ✅ Entity Framework basics (you know this)
+- ✅ Basic Web API (you know this)
+
+**Review & Update Knowledge (2-4 weeks each):**
+- 📚 **Modern C# Features** (C# 10-12 features, records, pattern matching)
+- 📚 **EF Core 8** (new features, performance improvements)
+- 📚 **ASP.NET Core 8** (minimal APIs, new features)
+- 📚 **Testing Best Practices** (TDD, integration tests)
+
+**Deep Focus (6-8 weeks each):**
+- 🎯 **Clean Architecture & DDD** (if not used before)
+- 🎯 **CQRS & Event Sourcing** (advanced patterns)
+- 🎯 **Microservices Architecture** (design, communication, resilience)
+- 🎯 **Cloud-Native Development** (Azure services, serverless, containers)
+- 🎯 **DevOps & CI/CD** (Azure DevOps, GitHub Actions)
+- 🎯 **Enterprise Architecture** (TOGAF, strategic thinking)
+
+**Certification Priority:**
+1. 🥇 **AZ-204** - Must have for .NET + Azure (Month 3-4)
+2. 🥈 **AZ-305** - Essential for architect track (Month 7-9)
+3. 🥉 **TOGAF** - Required for enterprise architect (Month 10-12)
+4. ⭐ **AZ-900** - Quick win to start (Week 2)
+5. ⭐ **AZ-400** - Great for DevOps knowledge (Month 5-6)
+
+**See full details:** [CERTIFICATIONS.md](CERTIFICATIONS.md)
 
 ---
 
@@ -171,6 +245,15 @@
 - "Clean Architecture" by Robert C. Martin
 - "Design Patterns" by Gang of Four
 - "The Art of Unit Testing" by Roy Osherove
+
+### **الشهادات المهنية:**
+
+- 🎓 [دليل الشهادات الكامل](CERTIFICATIONS.md) - Microsoft Azure & TOGAF
+- 📘 AZ-900: Azure Fundamentals
+- 📘 AZ-204: Azure Developer Associate
+- 📘 AZ-400: DevOps Engineer Expert
+- 📘 AZ-305: Azure Solutions Architect
+- 📘 TOGAF 9/10: Enterprise Architecture
 
 ### **منصات Practice:**
 

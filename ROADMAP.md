@@ -6,12 +6,49 @@
 
 ## 📑 فهرس المحتويات
 
+- [Certification Roadmap](#-certification-integration)
 - [المرحلة 1: الأساسيات (الأشهر 1-4)](#المرحلة-1-الأساسيات-الأشهر-1-4)
 - [المرحلة 2: قواعد البيانات (الأشهر 5-8)](#المرحلة-2-قواعد-البيانات-الأشهر-5-8)
 - [المرحلة 3: ASP.NET Core (الأشهر 9-14)](#المرحلة-3-aspnet-core-الأشهر-9-14)
 - [المرحلة 4: Architecture & Design (الأشهر 15-18)](#المرحلة-4-architecture--design-الأشهر-15-18)
 - [المرحلة 5: Microservices & DevOps (الأشهر 19-22)](#المرحلة-5-microservices--devops-الأشهر-19-22)
 - [المرحلة 6: Advanced & Capstone (الأشهر 23-24)](#المرحلة-6-advanced--capstone-الأشهر-23-24)
+
+---
+
+## 🎓 Certification Integration
+
+### **For Developers with 7+ Years Experience:**
+
+**📘 Complete Certification Guide:** [CERTIFICATIONS.md](CERTIFICATIONS.md)
+
+**Recommended Certification Timeline:**
+
+| Month | Technical Learning | Certification |
+|-------|-------------------|---------------|
+| 1-2 | Quick C# Review + Modern Features | ✅ **AZ-900** (Week 2) |
+| 3-6 | Architecture Review + Azure Services | ✅ **AZ-204** (Month 4) |
+| 7-10 | Microservices + Cloud Architecture | ✅ **AZ-400** (Month 7) <br> ✅ **AZ-305** (Month 10) |
+| 11-14 | Enterprise Architecture | ✅ **TOGAF Foundation** (Month 12) <br> ✅ **TOGAF Certified** (Month 14) |
+
+**Certification Benefits:**
+- 💼 15-40% salary increase potential
+- 🎯 Formal validation of expertise
+- 🚀 Career advancement opportunities
+- 📚 Structured knowledge gaps filling
+
+**Priority Order:**
+1. **AZ-900** - Quick foundation (1-2 weeks)
+2. **AZ-204** - Core developer certification (4-6 weeks)
+3. **AZ-305** - Architecture path (8-10 weeks)
+4. **TOGAF** - Enterprise architecture (8-12 weeks)
+5. **AZ-400** - DevOps expertise (4-6 weeks)
+
+**Integration Strategy:**
+- Study certifications in parallel with technical topics
+- Use Azure hands-on practice as study material
+- Take certification exams at natural milestone points
+- Review basics quickly, focus on advanced topics
 
 ---
 
@@ -125,6 +162,20 @@
    - Custom exception classes
    - Try-catch-finally
    - Logging exceptions
+
+---
+
+### 🎓 **Certification Checkpoint #1: AZ-900**
+
+**Timing:** After Week 2 (during C# fundamentals review)
+
+**Why now?**
+- Quick win to build momentum
+- Foundation for all Azure certifications
+- Can study alongside C# review
+- Only 1-2 weeks preparation needed with experience
+
+**Resources:** [AZ-900 Study Guide](CERTIFICATIONS.md#-phase-1-microsoft-azure-fundamentals-1-2-weeks)
 
 ---
 
@@ -286,6 +337,25 @@
 - Optimize slow queries
 - Compare EF Core vs Dapper performance
 - MongoDB CRUD operations
+
+---
+
+### 🎓 **Certification Checkpoint #2: AZ-204**
+
+**Timing:** After Month 8 (before starting advanced ASP.NET)
+
+**Why now?**
+- You have strong SQL and EF Core foundation
+- Perfect time to learn Azure services
+- Aligns with Web API development phase
+- Most valuable certification for .NET developers
+
+**Recommended Timeline:**
+- Week 29-30: Azure basics (Storage, App Service, Functions)
+- Week 31-32: Security & monitoring
+- Month 9 (Week 33-36): Take AZ-204 exam
+
+**Resources:** [AZ-204 Study Guide](CERTIFICATIONS.md#-phase-2-azure-developer-associate-4-6-weeks)
 
 ---
 
@@ -535,6 +605,24 @@ Solution/
 
 ---
 
+### 🎓 **Certification Checkpoint #3: AZ-400**
+
+**Timing:** After Month 18 (after mastering Clean Architecture)
+
+**Why now?**
+- Ready to understand CI/CD in depth
+- DevOps complements architecture knowledge
+- Prepares you for Microservices phase
+- Valuable for lead developer roles
+
+**Study Alongside:**
+- Week 65-68: Study while building Clean Architecture project
+- Take exam during Week 69-70
+
+**Resources:** [AZ-400 Study Guide](CERTIFICATIONS.md#-phase-3a-net-development-optional-but-recommended-3-4-weeks)
+
+---
+
 ## المرحلة 5: Microservices & DevOps (الأشهر 19-22)
 
 ### 🗓️ الشهر 19-20: Microservices & Docker
@@ -627,6 +715,44 @@ Security Scan → Build Docker Image → Deploy
 
 ---
 
+### 🎓 **Certification Checkpoint #4: AZ-305**
+
+**Timing:** After Month 22 (after Azure Cloud experience)
+
+**Why now?**
+- You have hands-on Azure experience
+- Microservices knowledge is essential
+- Ready for architecture-level thinking
+- Gateway to Solution Architect role
+
+**Study Alongside:**
+- Weeks 85-88: Azure hands-on practice
+- Weeks 89-92: Architecture design patterns + AZ-305 study
+- Take exam during Week 89-90
+
+**Resources:** [AZ-305 Study Guide](CERTIFICATIONS.md#-phase-3b-architecture-path-2-3-months)
+
+---
+
+### 🎓 **Certification Checkpoint #5: TOGAF**
+
+**Timing:** After Month 23-24 (final phase or extended to Month 25-27)
+
+**Why TOGAF?**
+- Enterprise architecture framework
+- Strategic thinking and planning
+- Essential for principal/enterprise architect roles
+- Complements Microsoft technical certifications
+
+**Timeline:**
+- Weeks 93-96: TOGAF Foundation study
+- Month 25-26: TOGAF Certified (if extending timeline)
+- Or study in parallel with Capstone project
+
+**Resources:** [TOGAF Study Guide](CERTIFICATIONS.md#️-phase-4-enterprise-architecture-togaf-2-3-months)
+
+---
+
 ## المرحلة 6: Advanced & Capstone (الأشهر 23-24)
 
 ### 🗓️ الشهر 23: Advanced Topics
@@ -706,7 +832,7 @@ SocialMediaPlatform/
 
 ## 🎯 الأهداف النهائية
 
-بنهاية الـ 24 شهر، ستكون قادراً على:
+بنهاية الـ 24 شهر (+ اختياري 3 أشهر للشهادات)، ستكون قادراً على:
 
 ✅ **Technical Skills:**
 - إتقان C# و .NET Core
@@ -724,11 +850,24 @@ SocialMediaPlatform/
 - GitHub profile نشط
 - Technical blog (optional)
 
+✅ **Certifications (Recommended):**
+- 🎓 AZ-900: Microsoft Azure Fundamentals
+- 🎓 AZ-204: Developing Solutions for Azure
+- 🎓 AZ-400: DevOps Engineer Expert
+- 🎓 AZ-305: Azure Solutions Architect Expert
+- 🎓 TOGAF 9/10: Enterprise Architecture (Foundation + Certified)
+
+**Total Value:** 5 industry-recognized certifications worth $1,200-1,700
+
 ✅ **Ready For:**
 - Senior .NET Developer positions
+- Lead Developer / Principal Engineer roles
+- Solution Architect positions
+- Enterprise Architect roles (with TOGAF)
 - Technical interviews
 - Real-world production systems
 - Team leadership
+- Architecture decision-making
 
 ---
 
