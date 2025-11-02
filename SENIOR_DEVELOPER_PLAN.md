@@ -327,7 +327,7 @@ This accelerated plan is designed for:
 4. Security architecture review
 5. Cost optimization analysis
 
-**Time:** 60-80 hours (15-20 hours/week for 4-5 weeks)
+**Time:** 80-100 hours (15-20 hours/week for 5-6 weeks)
 
 ---
 

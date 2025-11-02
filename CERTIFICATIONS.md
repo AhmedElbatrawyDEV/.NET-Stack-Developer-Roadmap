@@ -183,8 +183,8 @@ For a senior developer, here's the optimal order:
 ### **Fast Track (6 months)**
 ```
 Month 1: AZ-900 (weeks 1-2) + AZ-204 prep (weeks 3-4)
-Month 2-3: AZ-204 study + exam
-Month 3-4: AZ-400 OR start AZ-305 prep
+Month 2: AZ-204 study + exam
+Month 3: AZ-400 OR start AZ-305 prep
 Month 4-5: AZ-305 study + exam
 Month 6: TOGAF Foundation + Certified (if desired)
 ```
@@ -485,11 +485,10 @@ Month 11-12: TOGAF Certified
 - ✅ Let each certification change how you work
 
 ### **Balance Theory and Practice:**
-```
-🎓 Certification Study (30%)
-💻 Hands-on Projects (50%)
-📖 Reading/Exploration (20%)
-```
+
+- 🎓 **Certification Study (30%)** - Learning materials, videos, practice tests
+- 💻 **Hands-on Projects (50%)** - Build real applications, deploy to Azure
+- 📖 **Reading/Exploration (20%)** - Documentation, blogs, staying current
 
 ---
 
