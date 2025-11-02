@@ -8,7 +8,7 @@
 
 **If you have 7+ years of .NET experience and want to review + get certified:**
 
-### **Your Fast Track:**
+### **🎯 Your Fast Track:**
 
 1. ✅ **Week 1:** Review modern C# features (C# 10-12)
 2. ✅ **Week 2:** Study + Take **AZ-900** exam (Azure Fundamentals)
@@ -16,15 +16,24 @@
 4. ✅ **Month 4-6:** Architecture review + Take **AZ-305** (Solutions Architect)
 5. ✅ **Month 7-9:** TOGAF study + Take **Foundation + Certified**
 
-**📘 Complete Guide:** [CERTIFICATIONS.md](CERTIFICATIONS.md)
+**📖 Complete Guides:**
+- 🎯 [12-Month Accelerated Plan](SENIOR_DEVELOPER_PLAN.md) - Detailed month-by-month guide
+- 📘 [Certification Guide](CERTIFICATIONS.md) - All certifications explained
+- 📊 [Career Progression](CERTIFICATIONS.md#-certification-priority-by-career-goal) - Choose your path
 
 **What to focus on:**
-- ⚡ Skip: C# basics, basic OOP, basic LINQ (you know these)
-- 📚 Review: Modern C# features, EF Core 8, ASP.NET Core 8 features
-- 🎯 Deep dive: Clean Architecture, CQRS, Microservices, Cloud Architecture
-- 🎓 Prioritize: Certifications (AZ-204, AZ-305, TOGAF)
+- ⚡ **Skip:** C# basics, basic OOP, basic LINQ (you know these)
+- 📚 **Review:** Modern C# features, EF Core 8, ASP.NET Core 8 features
+- 🎯 **Deep dive:** Clean Architecture, CQRS, Microservices, Cloud Architecture
+- 🎓 **Prioritize:** Certifications (AZ-204, AZ-305, TOGAF)
 
 **Recommended Timeline:** 6-12 months (vs 24 months for beginners)
+
+**Investment:**
+- ⏱️ 10-15 hours/week
+- 💰 $1,200-1,700 (certifications)
+- 🎯 5 industry certifications
+- 💼 15-40% salary increase potential
 
 ---
 
@@ -265,8 +274,9 @@ dotnet run
 
 ## 📖 المراجع السريعة
 
-- 📋 [ROADMAP.md](ROADMAP.md) - الخطة الكاملة بالتفصيل
+- 📋 [ROADMAP.md](ROADMAP.md) - الخطة الكاملة بالتفصيل (24 شهر)
 - 📊 [README.md](README.md) - نظرة عامة على المشروع
+- 🎯 [SENIOR_DEVELOPER_PLAN.md](SENIOR_DEVELOPER_PLAN.md) - خطة 12 شهر للمطورين ذوي الخبرة
 - 🎓 [CERTIFICATIONS.md](CERTIFICATIONS.md) - دليل الشهادات (Microsoft Azure + TOGAF)
 - 📄 [CSV Tracker](dotnet-roadmap-tracker.csv) - ملف التتبع البسيط
 - 📈 [Excel Enhanced](dotnet-roadmap-tracker-enhanced.xlsx) - ملف التتبع المتقدم

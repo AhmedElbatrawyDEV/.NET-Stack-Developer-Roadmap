@@ -11,12 +11,15 @@
 
 **If you're an experienced developer looking to review, improve, and get certified:**
 
+🎯 **[12-Month Accelerated Plan →](SENIOR_DEVELOPER_PLAN.md)** - Fast-track for experienced developers
+
 📘 **[Complete Certification Guide →](CERTIFICATIONS.md)** - Microsoft Azure, TOGAF, and career roadmap
 
 **Quick Links for Experienced Developers:**
+- ⚡ [Accelerated 12-Month Plan](SENIOR_DEVELOPER_PLAN.md) - Month-by-month study guide
 - 🎓 [Certification Roadmap](CERTIFICATIONS.md) - AZ-900, AZ-204, AZ-305, TOGAF
-- ⚡ [Accelerated Study Plan](#study-plan-for-experienced-developers) - Skip basics, focus on gaps
 - 📊 [Career Progression Guide](CERTIFICATIONS.md#-certification-priority-by-career-goal) - Choose your path
+- 💰 [ROI Calculator](CERTIFICATIONS.md#-cost-breakdown) - Investment vs returns
 
 ---
 
@@ -229,6 +232,13 @@
 ---
 
 ## 📚 **المصادر والمواد**
+
+### **📖 دلائل هذا المشروع:**
+
+- 📋 [ROADMAP.md](ROADMAP.md) - الخطة التفصيلية 24 شهر
+- 🚀 [QUICK_START.md](QUICK_START.md) - دليل البدء السريع
+- 🎯 [SENIOR_DEVELOPER_PLAN.md](SENIOR_DEVELOPER_PLAN.md) - خطة 12 شهر للمطورين ذوي الخبرة (7+ سنوات)
+- 🎓 [CERTIFICATIONS.md](CERTIFICATIONS.md) - دليل الشهادات الشامل (Azure + TOGAF)
 
 ### **الكورسات الرئيسية:**
 
