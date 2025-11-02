@@ -1,8 +1,5 @@
 # 🚀 خطة .NET Stack Developer الكاملة - 24 شهر
 
-> **Complete 24-month roadmap to become a senior .NET Stack Developer**  
-> From C# basics to production-ready microservices with Azure
-
 [![Progress](https://img.shields.io/badge/Weeks-96-success.svg)](dotnet-roadmap-tracker.csv)
 [![Duration](https://img.shields.io/badge/Duration-24%20Months-orange.svg)](README.md)
 [![Start Date](https://img.shields.io/badge/Start%20Date-2024--11--02-blue.svg)](dotnet-roadmap-tracker.csv)
