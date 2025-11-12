@@ -21,7 +21,7 @@ This accelerated plan is designed for:
 
 | Month | Focus Area | Time Investment | Certifications |
 |-------|-----------|-----------------|----------------|
-| 1 | Modern C# Features Review | 10 hrs/week | AZ-900 ✅ |
+| 1 | AZ-900 Fundamentals + Modern C# Review | 10 hrs/week | AZ-900 ✅ |
 | 2-3 | Azure Services & Cloud Development | 15 hrs/week | AZ-204 ✅ |
 | 4-5 | Architecture Patterns & Design | 12 hrs/week | - |
 | 6-7 | DevOps, CI/CD, Containers | 15 hrs/week | AZ-400 ✅ |
@@ -36,29 +36,7 @@ This accelerated plan is designed for:
 
 ### **🗓️ Month 1: Foundation & Quick Review**
 
-#### Week 1-2: Modern C# Features
-**What to Learn:**
-- C# 10-12 new features (file-scoped namespaces, global usings, etc.)
-- Records and record structs
-- Pattern matching enhancements
-- Top-level statements
-- Init-only properties
-- Nullable reference types
-
-**Resources:**
-- [What's New in C# 10](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
-- [What's New in C# 11](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
-- [What's New in C# 12](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
-
-**Time:** 8-10 hours
-
-**Practical Task:**
-- Refactor one of your old projects using modern C# features
-- Create a demo project showcasing all new features
-
----
-
-#### Week 3-4: AZ-900 Certification
+#### Week 1-2: AZ-900 Certification
 **🎓 Certification:** Microsoft Azure Fundamentals
 
 **Why this first?**
@@ -80,6 +58,28 @@ This accelerated plan is designed for:
 - Whizlabs Practice Tests
 
 **Time:** 15-20 hours total
+
+---
+
+#### Week 3-4: Modern C# Features
+**What to Learn:**
+- C# 10-12 new features (file-scoped namespaces, global usings, etc.)
+- Records and record structs
+- Pattern matching enhancements
+- Top-level statements
+- Init-only properties
+- Nullable reference types
+
+**Resources:**
+- [What's New in C# 10](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
+- [What's New in C# 11](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
+- [What's New in C# 12](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
+
+**Time:** 8-10 hours
+
+**Practical Task:**
+- Refactor one of your old projects using modern C# features
+- Create a demo project showcasing all new features
 
 ---
 
@@ -436,8 +436,8 @@ This accelerated plan is designed for:
 ### **Monthly Checkpoints**
 
 **Month 1:**
-- [ ] Reviewed modern C# features
 - [ ] Completed AZ-900 certification ✅
+- [ ] Reviewed modern C# features
 - [ ] Set up Azure account with credits
 
 **Month 2-3:**
@@ -648,7 +648,7 @@ You already have the foundation. This plan helps you:
 
 ---
 
-## 📞 Support & Resources
+## 📞 Support & Resources			
 
 **Communities:**
 - [r/AzureCertification](https://www.reddit.com/r/AzureCertification/)
@@ -661,6 +661,87 @@ You already have the foundation. This plan helps you:
 - Join .NET Discord servers
 - Ask in certification subreddits
 - Connect with other learners
+
+---
+
+## 📚 Recommended Courses & Resources (By Timeline)
+
+### 🔁 Month 1 – AZ-900 First, Then Modern C#
+- Microsoft Learn AZ-900 Path (primary)
+- John Savill AZ-900 crash course
+- Practice tests (Whizlabs/MeasureUp)
+- Microsoft Learn: C# What's New (official docs)
+- Pluralsight: "C# 12: What's New"
+- Dometrain (Nick Chapsas): Advanced C# language features
+
+### ☁️ Months 2-3 – Azure Development (AZ-204)
+- Microsoft Learn AZ-204 Path (primary)
+- John Savill YouTube AZ-204 deep dives
+- Scott Duffy (Udemy) AZ-204 Exam Prep
+- Pluralsight Path: "Developing Solutions for Microsoft Azure (AZ-204)"
+- Hands-on labs: Deploy API + Functions + Service Bus + Key Vault + App Insights
+
+### 🧠 Months 4-5 – Architecture, DDD, CQRS
+- Vladimir Khorikov: DDD & Domain Modeling (Pluralsight / courses)
+- Jason Taylor: Clean Architecture Template walkthrough
+- Derek Comartin (CodeOpinion): CQRS, Event-Driven, Vertical Slice Architecture
+- Nick Chapsas (Dometrain): Minimal APIs, performance, Clean Architecture refinements
+- Julie Lerman: EF Core patterns (Pluralsight)
+- Book reinforcement: "Domain-Driven Design" (Evans), "Clean Architecture" (Martin)
+
+### 🚀 Months 6-7 – DevOps, Containers, CI/CD (AZ-400)
+- Microsoft Learn AZ-400 Path
+- Nigel Poulton: Docker Deep Dive + Kubernetes Deep Dive
+- Pluralsight: GitHub Actions for .NET; Azure DevOps Pipelines (YAML)
+- Bicep & Terraform (Microsoft Learn + HashiCorp Learn)
+- SonarQube & SAST integration resources (official docs)
+
+### 🏗️ Months 8-9 – Solutions & Cloud Architecture (AZ-305)
+- Microsoft Learn AZ-305 Path
+- John Savill Master Class (Playlist)
+- Azure Architecture Center + Well-Architected Review
+- Azure CAF (Cloud Adoption Framework) strategy docs
+- Pluralsight: Designing Azure solutions (identity, networking, data)
+
+### 🏛️ Months 10-12 – Enterprise Architecture (TOGAF)
+- The Open Group: Official TOGAF Standard & Library
+- Good e-Learning TOGAF Foundation/Certified (accredited)
+- Udemy (verify accreditation): TOGAF 9.2/Standard Course
+- Supplemental: SABSA overview (security architecture alignment)
+
+### 🔐 Cross-Cutting Specializations (Integrate Anytime)
+- Duende IdentityServer Training: OAuth2/OpenID Connect fundamentals
+- Roland Guijt (Pluralsight): Securing ASP.NET Core
+- CNCF OpenTelemetry Workshops: Distributed tracing & metrics
+- Serilog + Seq (Docs + community blog posts)
+- Polly (Resilience): Official GitHub wiki + community articles
+- Messaging Patterns: Azure Service Bus / Event Grid / Kafka (Confluent free courses)
+
+### 🧪 Testing & Quality
+- Vladimir Khorikov: Unit Testing in .NET
+- Pluralsight: "Testing RESTful APIs in .NET"
+- WireMock.Net / Pact (Consumer-driven contracts) docs
+- k6: Performance/load testing quick start
+
+### 🛠️ Reference Implementations (Clone & Study)
+- eShopOnWeb (Clean Architecture fundamentals)
+- eShopOnContainers (Microservices, DDD, messaging, Docker)
+- YARP Reverse Proxy (Edge and routing)
+- .NET Aspire samples (if targeting .NET 8+ cloud-native composition)
+
+### ✅ Selection Criteria
+Pick resources that:
+- Are updated for .NET 8/9 and current Azure exam outlines.
+- Include hands-on labs/code repos.
+- Provide architectural rationale, not just code.
+- Offer refund or trial (Udemy/Pluralsight/Dometrain).
+- Complement gaps (resilience, messaging, identity, observability).
+
+### 🔄 How to Integrate
+1. Add chosen course modules as tasks in your monthly checklist.
+2. Pair each course with one project deliverable (e.g., after Docker/K8s course → deploy AKS microservice + CI pipeline).
+3. Capture notes in a `LEARNING_LOG.md` and convert insights into architecture decision records (ADRs).
+4. Use __Task List__ in Visual Studio for actionable next steps.
 
 ---
 
